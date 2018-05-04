@@ -16,12 +16,12 @@
   color: #fff;
 }
 
-input[type="text"] {
-  border: none;
+.counter {
   display: block;
   font-size: 600px;
-  width: 1200px;
   text-align: center;
+  border: none;
+  width: 1200px;
   background-color: transparent;
 }
 
